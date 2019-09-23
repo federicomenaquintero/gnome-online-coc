@@ -6,7 +6,7 @@ Thank you for being a part of the GNOME project. We value your participation and
 
 ## Scope
 
-This Code of Conduct applies to all online GNOME community spaces, including:
+This Code of Conduct applies to all online GNOME community spaces, including, but not limited to:
 
  * Issue tracking systems - bugzilla.gnome.org
  * Documentation and tutorials - developer.gnome.org
