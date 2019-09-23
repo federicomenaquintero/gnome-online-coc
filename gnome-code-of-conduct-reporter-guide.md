@@ -6,10 +6,16 @@ If you believe someone has violated the [GNOME online Code of Conduct](LINK), we
 
 You can make a report by emailing <code-of-conduct-committee@gnome.org>. Your report will be received by the following GNOME online Code of Conduct committee members:
 
-* Christel Dahlskjaer
-* Federico Mena Quintero
-* Felipe Borges
-* Rosanna Yuen
+* Christel Dahlskjaer - christel@londontrustmedia.com
+* Federico Mena Quintero - federico@gnome.org
+* Felipe Borges - felipeborges@gnome.org
+* Rosanna Yuen - zana@gnome.org
+
+If your report concerns one of the people listed above, please mail
+any of the others directly instead of using the
+code-of-conduct-committee list.  The committee has procedures to deal
+with such cases; please see the section "[Conflicts of
+Interest](#conflicts-of-interest)" below.
 
 ## Report Data
 
