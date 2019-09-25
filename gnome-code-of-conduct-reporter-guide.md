@@ -2,7 +2,7 @@
 
 # Procedure For Reporting Code of Conduct Incidents
 
-If you believe someone has violated the [GNOME online Code of Conduct](LINK), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer community.
+If you believe someone has violated the [GNOME Code of Conduct](LINK), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer community.
 
 You can make a report by emailing <code-of-conduct-committee@gnome.org>. Your report will be received by the following GNOME online Code of Conduct committee members:
 
@@ -13,7 +13,7 @@ You can make a report by emailing <code-of-conduct-committee@gnome.org>. Your re
 
 If your report concerns one of the people listed above, please mail
 any of the others directly instead of using the
-code-of-conduct-committee list.  The committee has procedures to deal
+code-of-conduct-committee@gnome.org list.  The committee has procedures to deal
 with such cases; please see the section "[Conflicts of
 Interest](#conflicts-of-interest)" below.
 
@@ -36,7 +36,7 @@ We encourage you to include the following information in your report:
 
 ## Confidentiality
 
-**All reports will be kept confidential**. When the committee members discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
+**All reports will be kept confidential.** When the committee members discuss incidents with people who are reported, we will anonymize details as much as we can to protect reporter privacy.
 
 However, some incidents happen in one-on-one interactions, and even if the details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those in your report. We still encourage you to report, so that we can support you while keeping our community members safe. In some cases, we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
 
@@ -56,7 +56,7 @@ If the incident is less urgent, the committee members will meet within 1 week to
 
 If a committee member has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
-Should two or fewer committee members remain to evaluate the report, [person] ([title]) will step in as an additional decision maker on the incident.
+Should two or fewer committee members remain to evaluate the report, FIXME[person] (FIXME[title]) will step in as an additional decision maker on the incident.
 
 Please note that GNOME sysadmins have administrative access to some private committee resources. If a report is received that involves a GNOME sysadmin, all committee report discussion and documentation will occur off GNOME servers. GNOME sysadmins making a report and people reporting GNOME sysadmins are encouraged to contact committee members individually via private email.
 
