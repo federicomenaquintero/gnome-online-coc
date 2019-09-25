@@ -1,6 +1,6 @@
 ***This document is not approved. The only section that has been approved is the "Ratifying Code of Conduct Changes" section***
 
-# GNOME Code of Conduct moderator guidelines
+# GNOME Code of Conduct moderator procedures
 
 The audience for this document is moderators of online communities that abide by the GNOME Code of Conduct. The goal of this document is to help moderators who may observe Code of Conduct incidents. They are intended to enable the Code of Conduct to be effectively enforced, to ensure that incidents are properly handled, and to satisfy legal requirements for the handling of data.
 
