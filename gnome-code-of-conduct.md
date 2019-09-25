@@ -71,7 +71,7 @@ Community members asked to stop any inappropriate behavior are expected to compl
 
 We want all participants in the GNOME community have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate for GNOME community spaces:
 
- * **Deliberate intimidation, stalking, or following**
+ * **Deliberate intimidation, stalking, or following.**
  * **Sustained disruption of online discussion, talks, or other events.** Sustained disruption of events, online discussions, or meetings, including talks and presentations, will not be tolerated. This includes 'Talking over' or 'heckling' event speakers or influencing crowd actions that cause hostility in event sessions. Sustained disruption also includes drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
  * **Harassment of people who don't drink alcohol.** We do not tolerate derogatory comments about those who abstain from alcohol or other substances. We do not tolerate pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
  * **Sexist, racist, homophobic, transphobic, ableist language or otherwise exclusionary language.** This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual's gender identity. If you're unsure if a word is derogatory, don't use it. This also includes repeated subtle and/or indirect discrimination.
