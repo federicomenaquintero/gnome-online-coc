@@ -1,14 +1,14 @@
 ***This document is not approved. The only section that has been approved is the "Ratifying Code of Conduct Changes" section***
 
-# GNOME online Code of Conduct committee procedures
+# GNOME Code of Conduct committee procedures
 
-The audience for this document is the GNOME online Code of Conduct committee. The goal of this document is to ensure that the committee consistently handles all reported Code of Conduct incidents.
+The audience for this document is the GNOME Code of Conduct committee. The goal of this document is to ensure that the committee consistently handles all reported Code of Conduct incidents.
 
 [TABLE OF CONTENTS]
 
 ## Committee members
 
-The GNOME online Code of Conduct committee has the following members:
+The GNOME Code of Conduct committee has the following members:
 
  * Christel Dahlskjaer
  * Federico Mena Quintero
@@ -21,7 +21,7 @@ The GNOME Foundation executive director, president of the board, vice president,
 
 The executive with the most authority without a conflict of interest will be invited to become a temporary Code of Conduct committee member for this report. GNOME Foundation executives will be added as temporary committee members until there are at least three people to evaluate a report.
 
-Temporary committee members will discuss and vote like any other committee member, as outlined in this document. Temporary committee members will only have access to documentation for that report. Documentation for other reports will remain restricted to the permanent GNOME online Code of Conduct committee members.
+Temporary committee members will discuss and vote like any other committee member, as outlined in this document. Temporary committee members will only have access to documentation for that report. Documentation for other reports will remain restricted to the permanent GNOME Code of Conduct committee members.
 
 ### Additional access to reports
 
@@ -37,7 +37,7 @@ The committee has one chairperson. The committee chair's duties involve:
 
 The currently acting committee chair is Federico Mena Quintero.
 
-The committee has one director. The director provides a communication link between the GNOME Foundation Board of Directors and the GNOME online Code of Conduct committee. The board appoints one committee member to be the committee director.
+The committee has one director. The director provides a communication link between the GNOME Foundation Board of Directors and the GNOME Code of Conduct committee. The board appoints one committee member to be the committee director.
 
 The currently acting director is Federico Mena Quintero.
 
@@ -51,7 +51,7 @@ The chair may assign a committee member, or a committee member can nominate them
 
 Should there be two or fewer committee members, additional committee members will be added.
 
-New committee members will be appointed by the GNOME Foundation Board of Directors. The GNOME online Code of Conduct committee may recommend new members to the board. The committee may provide feedback on potential candidates under discussion by the board. The GNOME Foundation Board of Directors will vote on all potential candidates.
+New committee members will be appointed by the GNOME Foundation Board of Directors. The GNOME Code of Conduct committee may recommend new members to the board. The committee may provide feedback on potential candidates under discussion by the board. The GNOME Foundation Board of Directors will vote on all potential candidates.
 
 All committee members will be re-confirmed by the GNOME Foundation Board of Directors once per year. The committee director will ask all committee members if they wish to continue serving on the committee. The committee director will then report back to the board which committee members wish to continue serving. The board will then vote to re-confirm those members.
 
@@ -78,7 +78,7 @@ When a committee member is resigning or being removed, they should have their ac
 
 ## Ratifying Code of Conduct Changes
 
-When discussing a change to the Code of Conduct or enforcement policies, the GNOME online communities Code of Conduct committee will follow this decision-making process:
+When discussing a change to the Code of Conduct or enforcement policies, the GNOME Code of Conduct committee will follow this decision-making process:
 
  * **Brainstorm options.** Committee members should discuss any relevant context and brainstorm a set of possible options. It is important to provide constructive feedback without getting side-tracked from the main question. Brainstorming should be limited to 3-7 days maximum.
  * **Vote.** Changes to the Code of Conduct will be decided by a three-fourths majority of all the Code of Conduct committee members
@@ -185,7 +185,7 @@ Ways you may be able to offer support to people who have been impacted by an inc
 
 ## Documenting a report
 
-[Steps for documenting a report](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) are listed on a private wiki page accessible to committee members.
+FIXME[Steps for documenting a report](https://wiki.gnome.org/CodeOfConductCommittee/Private/IncidentResponseGuidelines) are listed on a private wiki page accessible to committee members.
 
 ## Data Retention Policy
 
@@ -216,7 +216,7 @@ These records might also include communications such as copies of electronic cor
 
 Records must be securely kept on GNOME Foundation servers or under individual access control under Google Documents. Do not turn Google doc link sharing on. Only committee members should have access to the records. Information can be shared with the GNOME Foundation Board of Directors on a case by case, need to know basis. Personal copies of information should not be retained by anyone who has access to them.
 
-If a GNOME online community wishes to abide by the GNOME online Code of Conduct, or a GNOME event wishes to abide by the GNOME events Code of Conduct, the moderators or event planners must notify the GNOME Foundation Board of Directors. Such online communities or events may share information about Code of Conduct reports with the GNOME online Code of Conduct committee. Appropriate safeguards should be in place to ensure that data can be legally transferred between online community moderators/event organizers and the GNOME Foundation.
+If a GNOME online community wishes to abide by the GNOME Code of Conduct, or a GNOME event wishes to abide by the GNOME events Code of Conduct, the moderators or event planners must notify the GNOME Foundation Board of Directors. Such online communities or events may share information about Code of Conduct reports with the GNOME Code of Conduct committee. Appropriate safeguards should be in place to ensure that data can be legally transferred between online community moderators/event organizers and the GNOME Foundation.
 
 Records should be retained for no more than six years after collection. After this time, they should be put beyond use. This means that they must:
 
@@ -236,7 +236,7 @@ Only members of the committee should be present at the meeting. At least half of
 * **Evaluate conflicts of interest.** Anyone who has a conflict of interest (as defined by the conflict of interest policy) will remove themselves from the discussion. This may mean the discussion needs to happen with a subset of committee members on an email thread, or with a subset of committee members in a private chat room.
 * **Call a meeting of committee members.** Not all committee members may be able to attend the meeting, either because of a conflict of interest, or because of personal reasons. There must be at least half of the committee members who do not have a conflict of interest present in the meeting to make a decision.
 * **Check for missing information.**  Flag any significant omission or questions. Decide which committee member will follow up with witnesses or the reporter.
-* **During the meeting, discuss the reported incident** Use the evaluation techniques described below.
+* **During the meeting, discuss the reported incident.** Use the evaluation techniques described below.
 * **Propose behavioral modification plan.** What behavioral modification plan (if any) should be given to the reported person?
 * **Propose consequences for reported person.** What (if any) actions will the committee need to take in order to ensure the behavior does not happen again? What actions will need to be taken if the reported person does not agree to the behavioral modification plan?
 * **Vote on behavioral modification plan and consequences for the reported person.** Decisions will be made by a simple majority of the committee members in the meeting.
@@ -268,7 +268,7 @@ Follow up meetings may need to be scheduled to review additional information, de
 
 ## Potential consequences
 
-What follows are examples of possible responses to an incident report. This list is not inclusive, and the GNOME online Code of Conduct committee reserves the right to take any action it deems necessary. Possible responses to an incident include:
+What follows are examples of possible responses to an incident report. This list is not inclusive, and the GNOME Code of Conduct committee reserves the right to take any action it deems necessary. Possible responses to an incident include:
 
 * Nothing, if the behavior was determined to not be a Code of Conduct violation
 * A verbal or emailed warning
@@ -298,11 +298,11 @@ What follows are examples of possible responses to an incident report. This list
 When talking to a person who was reported, discuss the incident in terms of their behavior, its impact, and a behavioral modification plan.
 
 Example:
-* **Behavior**: "When you joined this chat channel, you greeted people by saying, 'hey guys!'"
-* Context: "Women are underrepresented in our community. People often assume a woman is not part of our community, and that hurts our women community members. The word 'guys' implies a group of men."
-* **Impact**: "When you used the greeting 'hey guys', women in our community felt invisible and unwelcome."
-* Call in: "I need your help ensuring our community is welcoming to everyone."
-* **Behavioral modification plan**: "I need you to not use 'guys' to refer to our community members."
+* **Behavior:** "When you joined this chat channel, you greeted people by saying, 'hey guys!'"
+* **Context:** "Women are underrepresented in our community. People often assume a woman is not part of our community, and that hurts our women community members. The word 'guys' implies a group of men."
+* **Impact:** "When you used the greeting 'hey guys', women in our community felt invisible and unwelcome."
+* **Call in:** "I need your help ensuring our community is welcoming to everyone."
+* **Behavioral modification plan:** "I need you to not use 'guys' to refer to our community members."
 
 If the reported person wants to apologize, tell them that you will relay their apology, but that they should not contact the reporter. Apologies often center the hurt feelings of the reported person and put the reporter in the awkward position of having to forgive the person. As an incident responder, you can choose to relay the reported person's apology, or you can choose not to if it is not genuine.
 
@@ -365,13 +365,13 @@ Be prepared and willing to distance your community from actions of participants 
 
 Try to respond quickly to incidents. A late response looks a lot like no response at all and can harm the GNOME community's reputation. Use a simple general statement about the kind of behavior involved.
 
-For example: "$COMMUNITY does not condone $BEHAVIOR. $BEHAVIOR violates the GNOME online Code of Conduct. We take harassment seriously and respond to reports of it quickly and firmly."
+For example: "$COMMUNITY does not condone $BEHAVIOR. $BEHAVIOR violates the GNOME Code of Conduct. We take harassment seriously and respond to reports of it quickly and firmly."
 
 If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "<thing> happened. This was a violation of our policy. We apologize for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
 
 ## Transparency reports
 
-Once every three months, the GNOME online Code of Conduct committee will provide a public transparency report about the resolved and ongoing reports it has handled. The committee may decide to delay a transparency report if the timing of releasing a transparency report would jeopardize the privacy of the reporter, the reported person, or third-party witnesses.
+Once every three months, the GNOME Code of Conduct committee will provide a public transparency report about the resolved and ongoing reports it has handled. The committee may decide to delay a transparency report if the timing of releasing a transparency report would jeopardize the privacy of the reporter, the reported person, or third-party witnesses.
 
 The transparency reports will remove any information about the reporter and the reported person. If there is no way to anonymize the report without revealing the identity of the reporter or the reported person, the transparency report will simply note that a report was made. If no reports have been made in the specified time period, the transparency report will state that.
 
@@ -407,13 +407,13 @@ An incident may be reported to an employer if the incident occurred while the re
 
 ## License
 
-The GNOME Online Code of Conduct committee procedures guide is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+The GNOME Code of Conduct committee procedures guide is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Attribution
 
-The GNOME Online Code of Conduct committee procedures was forked from the Code of Conduct template, which was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+The GNOME Code of Conduct committee procedures was forked from the Code of Conduct template, which was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
 Additional language and graphics were incorporated and modified from the following resources:
 
