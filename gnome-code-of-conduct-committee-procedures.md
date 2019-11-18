@@ -1,5 +1,3 @@
-***This document is not approved. The only section that has been approved is the "Ratifying Code of Conduct Changes" section***
-
 # GNOME Code of Conduct committee procedures
 
 The audience for this document is the GNOME Code of Conduct committee. The goal of this document is to ensure that the committee consistently handles all reported Code of Conduct incidents.
@@ -10,10 +8,10 @@ The audience for this document is the GNOME Code of Conduct committee. The goal 
 
 The GNOME Code of Conduct committee has the following members:
 
- * Christel Dahlskjaer
- * Federico Mena Quintero
- * Felipe Borges
- * Rosanna Yuen
+ * Christel Dahlskjaer - christel@londontrustmedia.com
+ * Federico Mena Quintero - federico@gnome.org
+ * Felipe Borges - felipeborges@gnome.org
+ * Rosanna Yuen - zana@gnome.org
 
 ### Temporary committee members
 
@@ -35,11 +33,11 @@ The committee has one chairperson. The committee chair's duties involve:
  * Contacting committee members for term renewals
  * Tracking the status of active reports
 
-The currently acting committee chair is Federico Mena Quintero.
+The currently acting committee chair is [Federico Mena Quintero](mailto:federico@gnome.org).
 
 The committee has one director. The director provides a communication link between the GNOME Foundation Board of Directors and the GNOME Code of Conduct committee. The board appoints one committee member to be the committee director.
 
-The currently acting director is Federico Mena Quintero.
+The currently acting director is [Federico Mena Quintero](federico@gnome.org).
 
 The chair may assign a committee member, or a committee member can nominate themselves, to do the following duties:
 
@@ -86,7 +84,7 @@ When discussing a change to the Code of Conduct or enforcement policies, the GNO
 
 ## Reporting methods
 
-Reports will come in from the email <code-of-conduct-committee@gnome.org>. This is a private mailing list with archives. It is only accessible to committee members and GNOME sysadmins.
+Reports will come in from the email code-of-conduct-committee@gnome.org. This is a private mailing list with archives. It is only accessible to committee members and GNOME sysadmins.
 
 ## Conflicts of Interest
 
@@ -270,28 +268,28 @@ Follow up meetings may need to be scheduled to review additional information, de
 
 What follows are examples of possible responses to an incident report. This list is not inclusive, and the GNOME Code of Conduct committee reserves the right to take any action it deems necessary. Possible responses to an incident include:
 
-* Nothing, if the behavior was determined to not be a Code of Conduct violation
-* A verbal or emailed warning
-* Requiring that the reported person not send private messages to a community member
-* Requiring that the reported person not join specific chat channels
-* Requiring that the reported person avoid any interaction with, and physical proximity to, another person for the remainder of the event
-* Requiring the reported person not attend evening events
-* Refusal of alcoholic beverage purchases at events
-* Ending a talk that violates the Code of Conduct early
-* Not publishing the video or slides of a talk that violated the Code of Conduct
-* Not allowing a speaker who violated the Code of Conduct to give (further) talks at the event now or in the future
-* Immediately ending any event volunteer responsibilities and privileges a person holds
-* Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
-* Requiring that a person refund any travel grants and similar they received
-* Revoking sponsor agreements, refunding sponsorship, and removing sponsor promotion (such as logos or banners)
-* Requiring that sponsor attendees immediately leave the event and not return
-* Requiring that a person immediately leave the event and not return
-* Banning a person from future events (either indefinitely or for a certain time period)
-* Removing the reported person from community online chat servers or mailing lists (either indefinitely or for a certain time period)
-* Removing the reported person from admin or moderator rights to community infrastructure
-* Removing a person from leadership of relevant organizations
-* Removing a person from membership of relevant organizations
-* Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
+ * Nothing, if the behavior was determined to not be a Code of Conduct violation
+ * A verbal or emailed warning
+ * Requiring that the reported person not send private messages to a community member
+ * Requiring that the reported person not join specific chat channels
+ * Requiring that the reported person avoid any interaction with, and physical proximity to, another person for the remainder of the event
+ * Requiring the reported person not attend evening events
+ * Refusal of alcoholic beverage purchases at events
+ * Ending a talk that violates the Code of Conduct early
+ * Not publishing the video or slides of a talk that violated the Code of Conduct
+ * Not allowing a speaker who violated the Code of Conduct to give (further) talks at the event now or in the future
+ * Immediately ending any event volunteer responsibilities and privileges a person holds
+ * Requiring that a person not volunteer for future events (either indefinitely or for a certain time period)
+ * Requiring that a person refund any travel grants and similar they received
+ * Revoking sponsor agreements, refunding sponsorship, and removing sponsor promotion (such as logos or banners)
+ * Requiring that sponsor attendees immediately leave the event and not return
+ * Requiring that a person immediately leave the event and not return
+ * Banning a person from future events (either indefinitely or for a certain time period)
+ * Removing the reported person from community online chat servers or mailing lists (either indefinitely or for a certain time period)
+ * Removing the reported person from admin or moderator rights to community infrastructure
+ * Removing a person from leadership of relevant organizations
+ * Removing a person from membership of relevant organizations
+ * Publishing an account of the incident and (optionally) calling for the resignation of a person from their responsibilities
 
 ## Talking to a reported person
 
@@ -367,7 +365,7 @@ Try to respond quickly to incidents. A late response looks a lot like no respons
 
 For example: "$COMMUNITY does not condone $BEHAVIOR. $BEHAVIOR violates the GNOME Code of Conduct. We take harassment seriously and respond to reports of it quickly and firmly."
 
-If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "<thing> happened. This was a violation of our policy. We apologize for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
+If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "$thing happened. This was a violation of our policy. We apologize for this. We have taken $action. This is a good time for all attendees to review our policy at $location. If anyone would like to discuss this further they can $contact_us_somehow."
 
 ## Transparency reports
 

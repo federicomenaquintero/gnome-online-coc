@@ -365,7 +365,7 @@ Try to respond quickly to incidents. A late response looks a lot like no respons
 
 For example: "$COMMUNITY does not condone $BEHAVIOR. $BEHAVIOR violates the GNOME Code of Conduct. We take harassment seriously and respond to reports of it quickly and firmly."
 
-If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "<thing> happened. This was a violation of our policy. We apologize for this. We have taken <action>. This is a good time for all attendees to review our policy at <location>. If anyone would like to discuss this further they can <contact us somehow>."
+If the incident has been dealt with at the event, it may be appropriate to make a short announcement at the next plenary, something like: "$thing happened. This was a violation of our policy. We apologize for this. We have taken $action. This is a good time for all attendees to review our policy at $location. If anyone would like to discuss this further they can $contact_us_somehow."
 
 == Transparency reports ==
 
