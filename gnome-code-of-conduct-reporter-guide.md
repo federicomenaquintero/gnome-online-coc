@@ -1,21 +1,15 @@
-** UNAPPROVED DRAFT **
-
 # Procedure For Reporting Code of Conduct Incidents
 
-If you believe someone has violated the [GNOME Code of Conduct](LINK), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer community.
+If you believe someone has violated the [GNOME Code of Conduct](gnome-code-of-conduct.md), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer community.
 
-You can make a report by emailing <code-of-conduct-committee@gnome.org>. Your report will be received by the following GNOME online Code of Conduct committee members:
+You can make a report by emailing code-of-conduct-committee@gnome.org. Your report will be received by the following GNOME online Code of Conduct committee members:
 
-* Christel Dahlskjaer - christel@londontrustmedia.com
-* Federico Mena Quintero - federico@gnome.org
-* Felipe Borges - felipeborges@gnome.org
-* Rosanna Yuen - zana@gnome.org
+ * Christel Dahlskjaer - christel@londontrustmedia.com
+ * Federico Mena Quintero - federico@gnome.org
+ * Felipe Borges - felipeborges@gnome.org
+ * Rosanna Yuen - zana@gnome.org
 
-If your report concerns one of the people listed above, please mail
-any of the others directly instead of using the
-code-of-conduct-committee@gnome.org list.  The committee has procedures to deal
-with such cases; please see the section "[Conflicts of
-Interest](#conflicts-of-interest)" below.
+If your report concerns one of the people listed above, please mail any of the others directly instead of using the code-of-conduct-committee@gnome.org list.  The committee has procedures to deal with such cases; please see the section "[Conflicts of Interest](#conflicts-of-interest)" below.
 
 ## Report Data
 
@@ -23,16 +17,16 @@ If you make a report via email, we hope you can provide us with some information
 
 We encourage you to include the following information in your report:
 
-* Your contact info (so we can get in touch with you if we need to follow up)
-* Date and time of the incident
-* Whether the incident is ongoing
-* Which online community and which part of the online community space it occurred in
-* Description of the incident
-* Identifying information of the reported person such as name, online username, handle, email address, or IP address
-* A link to the conversation
-* Any logs or screenshots of the conversation
-* Additional circumstances surrounding the incident
-* Other people involved in or witnesses to the incident and their contact information or description
+ * Your contact info (so we can get in touch with you if we need to follow up)
+ * Date and time of the incident
+ * Whether the incident is ongoing
+ * Which online community and which part of the online community space it occurred in
+ * Description of the incident
+ * Identifying information of the reported person such as name, online username, handle, email address, or IP address
+ * A link to the conversation
+ * Any logs or screenshots of the conversation
+ * Additional circumstances surrounding the incident
+ * Other people involved in or witnesses to the incident and their contact information or description
 
 ## Confidentiality
 
@@ -42,7 +36,7 @@ However, some incidents happen in one-on-one interactions, and even if the detai
 
 In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all people impacted by the behavior and the people who reported that behavior will remain confidential, unless those individuals instruct us otherwise.
 
-The committee provides transparency reports about the incidents that occurred. Anonymized information from the incident you report may be included in transparency reports. Please see details in the GNOME online Code of Conduct committee [Procedure For Incident Response](LINK).
+The committee provides transparency reports about the incidents that occurred. Anonymized information from the incident you report may be included in transparency reports. Please see details in the GNOME Code of Conduct committee [Procedure For Incident Response](gnome-code-of-conduct-committee-procedures.md).
 
 ## Report Handling Procedure
 
@@ -50,7 +44,7 @@ When you make an incident report via email, you will receive an acknowledgment o
 
 If the incident is ongoing and needs to be immediately addressed, any one of the committee members may take appropriate action to ensure the safety of everyone involved.
 
-If the incident is less urgent, the committee members will meet within 1 week to determine an appropriate response. Examples of possible incident responses are outlined in the GNOME online Code of Conduct committee [Procedure For Incident Response](LINK). In some cases, the committee members may need to ask the person who made the report additional questions about the incident.
+If the incident is less urgent, the committee members will meet within 1 week to determine an appropriate response. Examples of possible incident responses are outlined in the GNOME online Code of Conduct committee [Procedure For Incident Response](gnome-code-of-conduct-committee-procedures.md). In some cases, the committee members may need to ask the person who made the report additional questions about the incident.
 
 ## Conflicts of Interest
 
@@ -64,9 +58,9 @@ Please note that GNOME sysadmins have administrative access to some private comm
 
 Within one week of an incident report, the committee will follow up with the person who made the report and provided their contact information. The follow up may include:
 
-* An acknowledgment that the GNOME online Code of Conduct committee discussed the situation
-* Whether or not the report was determined to be a violation of the Code of Conduct
-* What actions (if any) were taken to correct the reported behavior
+ * An acknowledgment that the GNOME online Code of Conduct committee discussed the situation
+ * Whether or not the report was determined to be a violation of the Code of Conduct
+ * What actions (if any) were taken to correct the reported behavior
 
 Sometimes reports take more time to discuss or follow up on. After one week of a report being open, the person who made the report will be provided with a status update. The status update will include a time frame for when the next update will be sent or the time frame in which the report is expected to be resolved.
 
